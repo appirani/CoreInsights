@@ -26,7 +26,6 @@ AI-powered data analytics platform that transforms raw CSV data into actionable 
 
 ### Frontend
 - React.js
-- Vite
 - JavaScript
 - CSS
 
